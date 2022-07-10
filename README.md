@@ -24,7 +24,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
+<!--<details open="open">
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -48,8 +48,32 @@
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
-
-
+-->
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Dataset Description](#dataset-description)
+  - [Dataset Summary](#dataset-summary)
+  - [Supported Tasks and Leaderboards](#supported-tasks-and-leaderboards)
+  - [Languages](#languages)
+- [Dataset Structure](#dataset-structure)
+  - [Data Instances](#data-instances)
+  - [Data Fields](#data-fields)
+  - [Data Splits](#data-splits)
+- [Dataset Creation](#dataset-creation)
+  - [Curation Rationale](#curation-rationale)
+  - [Source Data](#source-data)
+  - [Annotations](#annotations)
+  - [Personal and Sensitive Information](#personal-and-sensitive-information)
+- [Considerations for Using the Data](#considerations-for-using-the-data)
+  - [Social Impact of Dataset](#social-impact-of-dataset)
+  - [Discussion of Biases](#discussion-of-biases)
+  - [Other Known Limitations](#other-known-limitations)
+- [Additional Information](#additional-information)
+  - [Dataset Curators](#dataset-curators)
+  - [Licensing Information](#licensing-information)
+  - [Citation Information](#citation-information)
+  - [Contributions](#contributions)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -58,6 +82,31 @@ In this section you should describe your project, including any datasets you use
 
 [Here goes the title with hyperlink](https://github.com/catiaspsilva/README-template)
 
+## Citing
+When using this code, kindly reference:
+
+```
+@ARTICLE{Damen2020RESCALING,
+   title={Rescaling Egocentric Vision},
+   author={Damen, Dima and Doughty, Hazel and Farinella, Giovanni Maria  and and Furnari, Antonino 
+           and Ma, Jian and Kazakos, Evangelos and Moltisanti, Davide and Munro, Jonathan 
+           and Perrett, Toby and Price, Will and Wray, Michael},
+           journal   = {CoRR},
+           volume    = {abs/2006.13256},
+           year      = {2020},
+           ee        = {http://arxiv.org/abs/2006.13256},
+} 
+```
+and
+```
+@misc{fan2020pyslowfast,
+  author =       {Haoqi Fan and Yanghao Li and Bo Xiong and Wan-Yen Lo and
+                  Christoph Feichtenhofer},
+  title =        {PySlowFast},
+  howpublished = {\url{https://github.com/facebookresearch/slowfast}},
+  year =         {2020}
+}
+```
 You can include tables or images to summarize your results when and if appropriate.
 
 <!-- GETTING STARTED -->
@@ -135,16 +184,22 @@ Contributions are what make the open source community such an amazing place to b
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
 <!-- Authors -->
 ## Authors
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@ShivvratA](https://twitter.com/ShivvratA) - Shivvrat.Arya@utdallas.edu
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [Charades Multi Label Activity Recognition](https://github.com/IRVLUTD/Charades-Multi-Label-Activity-Recognition.git)
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+<!--## Acknowledgements
 
 You can acknowledge any individual, group, institution or service.
 * [Catia Silva](https://faculty.eng.ufl.edu/catia-silva/)
@@ -154,8 +209,8 @@ You can acknowledge any individual, group, institution or service.
 * [GitHub Pages](https://pages.github.com)
 * [Animate.css](https://daneden.github.io/animate.css)
 * [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
+* [Slick Carousel](https://kenwheeler.github.io/slick)-->
 
 ## Thank you
 
-If this is useful: [![Buy me a coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/catiaspsilva)
+<!--If this is useful: [![Buy me a coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/catiaspsilva)-->
